@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Harbor</title>
+    <link>https://github.com/bsbbera/harbor-releases</link>
+    <description>Harbor updates</description>
+    <language>en</language>
+  </channel>
+</rss>
