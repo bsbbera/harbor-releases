@@ -6,6 +6,15 @@
     <description>Harbor updates</description>
     <language>en</language>
     <item>
+      <title>Harbor 0.1.1</title>
+      <pubDate>Thu, 19 Nov 2026 07:25:11 +0000</pubDate>
+      <sparkle:version>202611191255</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Folder previews no longer shrink when you move the pointer into them</li><li>No more password prompt at launch: licence and trial are kept in Harbor's own folder instead of the Keychain</li></ul>]]></description>
+      <enclosure url="https://github.com/bsbbera/harbor-releases/releases/download/v0.1.1/Harbor-0.1.1.zip" sparkle:edSignature="dsW/+JXFjqG5Akj2lKvn7nEZabD/p8IphIVlIiOLSACIZ5c4SbdhNgDrQZB8rbknJMXyComs4uPYmXLmO4/lBw==" length="14606176" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Harbor 0.1</title>
       <pubDate>Thu, 19 Nov 2026 06:40:04 +0000</pubDate>
       <sparkle:version>202611191210</sparkle:version>
