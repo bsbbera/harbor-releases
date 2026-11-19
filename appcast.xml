@@ -6,6 +6,15 @@
     <description>Harbor updates</description>
     <language>en</language>
     <item>
+      <title>Harbor 0.1.2</title>
+      <pubDate>Thu, 19 Nov 2026 07:56:06 +0000</pubDate>
+      <sparkle:version>202611191326</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Colour tags now colour the whole glass folder, not just a dot</li><li>Long names wrap onto two lines and keep their start and extension</li><li>Text and Markdown thumbnails show their first lines, readable</li><li>The side panel previews PDFs and text files</li><li>A folder that can't be opened is no longer shown as empty</li><li>Peeks for items near the top open below them, clear of the address bar</li><li>External drives show their real free space</li></ul>]]></description>
+      <enclosure url="https://github.com/bsbbera/harbor-releases/releases/download/v0.1.2/Harbor-0.1.2.zip" sparkle:edSignature="ZYtwPGAjLUL169HjOOzPsmUffwHVLDFcEASPtzztUIVx1ALqDYSQIze97e8uJaBQHnsBhha/3O8UPAAuACC6DQ==" length="14622921" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Harbor 0.1.1</title>
       <pubDate>Thu, 19 Nov 2026 07:25:11 +0000</pubDate>
       <sparkle:version>202611191255</sparkle:version>
